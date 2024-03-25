@@ -9,9 +9,9 @@ The Aurum by Flymind service uses unique, proprietary AGI technologies, as well 
   - [Silero VAD](https://github.com/ricky0123/vad/)
 - ChatBot
   - [Llama.cpp server](https://github.com/ggerganov/llama.cpp)
-  - [ChatGPT API](https://platform.openai.com/docs/api-reference/chat)   -
-  - [Ollama](https://ollama.ai)
-  - 
+  - [ChatGPT API](https://platform.openai.com/docs/api-reference/chat)
+  - [Ollama](https://ollama.ai)  
+  - [Chatbot UI](https://github.com/ivanfioravanti/chatbot-ollama)
 - Text-to-Speech
   - [Coqui API](https://coqui.ai/)
   - [Eleven Labs API](https://elevenlabs.io/)
