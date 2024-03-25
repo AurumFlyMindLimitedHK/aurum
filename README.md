@@ -31,4 +31,4 @@ View the [documentation](https://docs.flymind.club) for more information on how 
 
 ## 🖥️ Site
 
-Visit our website at: [FlyMind.club](https://docs.flymind.club)
+Visit our website at: [FlyMind.club](https://flymind.club)
