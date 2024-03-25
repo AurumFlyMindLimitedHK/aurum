@@ -1,4 +1,4 @@
-# aurum
+# Aurum
 Online subscription service and sensor interaction hardware for kids with ASD
 
 The Aurum by Flymind service uses unique, proprietary AGI technologies, as well as technologies based on
